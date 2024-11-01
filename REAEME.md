@@ -1,0 +1,2 @@
+- main 브랜치에 Push가 발생할 때, Docker 이미지를 빌드하고
+- Docker hub에 푸시하는 작업을 자동화하는 파이프라인
